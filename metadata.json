@@ -1,0 +1,6 @@
+{
+  "name": "Central de Vendas com IA",
+  "description": "Plataforma inteligente de modelagem estratégica de ofertas, descoberta de oportunidades de produtos, projeto-mestre e geração de ativos de vendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
